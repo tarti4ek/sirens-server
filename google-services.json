@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "752784614531",
+    "project_id": "sirensbytartik",
+    "storage_bucket": "sirensbytartik.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752784614531:android:bec02c82118643bd7127b6",
+        "android_client_info": {
+          "package_name": "com.example.sirens_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4dF7x3x43PBy1MDQ-XkN4Y0z-Ec4t2L0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
